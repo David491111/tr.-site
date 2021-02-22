@@ -1,0 +1,9 @@
+$mc : rgb(205, 203, 203);
+$mbc: rgb(40, 40, 40);
+    .menu{
+        background-color: $mbc;
+        color: $mc;
+        a{
+            color: $mc;
+        }
+    }

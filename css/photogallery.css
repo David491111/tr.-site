@@ -1,4 +1,4 @@
-.container{
+ .containerphoto{
     display: grid;
     gap: 5px;
     grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
@@ -19,64 +19,64 @@ img{
     grid-column: span 2;
     grid-row: span 2;
 }
-.container :nth-child(1){
+.containerphoto :nth-child(1){
     background-image: url("../images/photos/1.jpg");
     background-size: cover;
 }
-.container :nth-child(2){
+.containerphoto :nth-child(2){
     background-image: url("../images/photos/2.jpg");
     background-size: cover;
     background-position: center center;
 }
-.container :nth-child(3){
+.containerphoto :nth-child(3){
     background-image: url("../images/photos/3.jpg");
     background-size: cover;    
 }
-.container :nth-child(4){
+.containerphoto :nth-child(4){
     background-image: url("../images/photos/4.jpg");
     background-size: cover;    
 }
-.container :nth-child(5){
+.containerphoto :nth-child(5){
     background-image: url("../images/photos/5.jpg");
     background-size: cover;    
 }
-.container :nth-child(6){
+.containerphoto :nth-child(6){
     background-image: url("../images/photos/6.jpg");
     background-size: cover;    
 }
-.container :nth-child(7){
+.containerphoto :nth-child(7){
     background-image: url("../images/photos/7.jpg");
     background-size: cover;    
 }
-.container :nth-child(8){
+.containerphoto :nth-child(8){
     background-image: url("../images/photos/8.jpg");
     background-size: cover;    
 }
-.container :nth-child(9){
+.containerphoto :nth-child(9){
     background-image: url("../images/photos/9.jpg");
     background-size: cover;    
 }
-.container :nth-child(10){
+.containerphoto :nth-child(10){
     background-image: url("../images/photos/10.jpg");
     background-size: cover;    
 }
-.container :nth-child(11){
+.containerphoto :nth-child(11){
     background-image: url("../images/photos/11.jpg");
     background-size: cover;    
 }
-.container :nth-child(12){
+.containerphoto :nth-child(12){
     background-image: url("../images/photos/12.jpg");
     background-size: cover;    
 }
-.container :nth-child(13){
+.containerphoto :nth-child(13){
     background-image: url("../images/photos/13.jpg");
     background-size: cover;    
 }
-.container :nth-child(14){
+.containerphoto :nth-child(14){
     background-image: url("../images/photos/14.jpg");
     background-size: cover;    
 }
-.container :nth-child(15){
+.containerphoto :nth-child(15){
     background-image: url("../images/photos/15.jpg");
     background-size: cover;  
     background-position: center center;  
